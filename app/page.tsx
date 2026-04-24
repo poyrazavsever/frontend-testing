@@ -6,9 +6,11 @@ export default function Home() {
     <main className="mx-auto flex min-h-screen max-w-5xl flex-col gap-12 px-6 py-12">
       <section className="grid gap-8 md:grid-cols-[1.2fr_0.8fr] md:items-center">
         <div>
-          <p className="text-sm font-medium text-emerald-700">Frontend Testing Demo</p>
+          <p className="text-sm font-medium text-emerald-700">
+            Frontend Testing Demo
+          </p>
           <h1 className="mt-3 text-4xl font-bold tracking-normal text-slate-950">
-            Poyraz ile Yazılıma Dair
+            Frontendte Test Yazmak
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">
             Unit, integration ve E2E test seviyelerini sade bir Next.js projesi
